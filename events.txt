@@ -1,8 +1,0 @@
-11:30|30|Online meeting
-12:30|30|Lunch break
-14:00|10|Coffee break
-11:00|10|Coffee break
-14:20|60|Write documentation
-14:50|10|Consultation with the team
-09:05|15|Morning meeting
-9:30|30|Web content update
